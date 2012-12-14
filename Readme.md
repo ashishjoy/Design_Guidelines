@@ -8,6 +8,6 @@ My name is [Ashish Joy](http://log.ashishjoy.com/about). I am a ragamuffin Jesus
 
 ## About Design Guidelines ##
 
-I write because it is my passion. I'm currently working on a book. This repository is an opportunity for me to analyze, navigate and curate my thoughts as I think of designing interaction around content consumption. I want to have a framework in place so that when people interact with content that I create (ie. *digital media* and *print media*).
+I write because it is my passion. I'm currently working on a book. This repository is an opportunity for me to analyze, navigate and curate my thoughts as I think of designing interaction around content consumption. I want to have a framework in place so that when people interact with content that I create (ie. *digital media* and *print media*) there would be a design in place. I want to think through and plan that interaction.
 
 *version 0.01 December 13, 2012*
